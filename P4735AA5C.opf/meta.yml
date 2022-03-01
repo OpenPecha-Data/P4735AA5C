@@ -1,0 +1,220 @@
+id: P4735AA5C
+initial_creation_type: input
+source_metadata:
+  title: Pratyutpannabuddhasamādhisūtra
+  language: en
+  volumes:
+    ea50355e5711401a90ec04ce3f52f47b:
+      title: CIII_§3A
+      base_file: CIII_§3A.txt
+      work_id: W29080D80
+    49be6189ed6f4144bb1f6962e8e664ea:
+      title: CIII_§3B
+      base_file: CIII_§3B.txt
+      work_id: WCC55A558
+    2a64251588c44659a4e915b2a0106eff:
+      title: CIII_§3C
+      base_file: CIII_§3C.txt
+      work_id: W60F80165
+    13d76a1fe06142739a201be5362cbd92:
+      title: CIII_§3D
+      base_file: CIII_§3D.txt
+      work_id: W9B15D5C7
+    97699275ecf3419caf4d096314386475:
+      title: CIII_§3E
+      base_file: CIII_§3E.txt
+      work_id: W89891C87
+    5319a27bd31b435db2b89276c1744f4f:
+      title: CIII_§3F
+      base_file: CIII_§3F.txt
+      work_id: W44B9C0C3
+    1830ec5f6f5d4600979ce1af7df507dc:
+      title: CIII_§3G
+      base_file: CIII_§3G.txt
+      work_id: W7DE78522
+    014c342be48f4ee18704e4ecce7f8a16:
+      title: CIII_§3H
+      base_file: CIII_§3H.txt
+      work_id: W3F438C19
+    7864055b7e2c45dea7d473348f052500:
+      title: CIII_§3I
+      base_file: CIII_§3I.txt
+      work_id: W97649E44
+    87c80c63b4154385b16bb00db30c3bd2:
+      title: CIII_§3J
+      base_file: CIII_§3J.txt
+      work_id: WE0FAED96
+    a6942fa3fc2b4a0f8a4f9147bc00aca3:
+      title: CIII_§3K
+      base_file: CIII_§3K.txt
+      work_id: WAED4BB5C
+    4d13223d7744492eb3b3bcc490490cb6:
+      title: CIII_§3L
+      base_file: CIII_§3L.txt
+      work_id: WB5D3C4C2
+    264e5e5d8604404aada16738957b649c:
+      title: CIII_§3M
+      base_file: CIII_§3M.txt
+      work_id: W09A8F8AA
+    cd19df326ef8440c839909fdfb05dcb4:
+      title: CIII_§3N
+      base_file: CIII_§3N.txt
+      work_id: W544DE5A5
+    be292fe5cf3640b4bd07c7c749ba4bd4:
+      title: CIII_§3O
+      base_file: CIII_§3O.txt
+      work_id: W02F06062
+    387aa89b653c44fc8026416b9ed135ac:
+      title: CII_§2A
+      base_file: CII_§2A.txt
+      work_id: W1E113087
+    f3cb7543ca82433b88519c847797c495:
+      title: CII_§2B
+      base_file: CII_§2B.txt
+      work_id: W3CAAEF3D
+    218e9857878c44798d503dae447d36d7:
+      title: CII_§2C
+      base_file: CII_§2C.txt
+      work_id: W4744A8EA
+    2f52ae135c214a26b8b64f55df7f400a:
+      title: CII_§2D
+      base_file: CII_§2D.txt
+      work_id: WE0C89EB0
+    0105c4adf0a6481da197beaaeec2cf56:
+      title: CII_§2E
+      base_file: CII_§2E.txt
+      work_id: W63DECCCA
+    cb34b5749b4941eaacd98eba82365991:
+      title: CII_§2F
+      base_file: CII_§2F.txt
+      work_id: WF1970CB8
+    9eba9a1a4c9e4e49b0a2593eab6ab935:
+      title: CII_§2G
+      base_file: CII_§2G.txt
+      work_id: W9417EF67
+    d061a8dcadae4c6face112626cb45cc2:
+      title: CII_§2H
+      base_file: CII_§2H.txt
+      work_id: W3C4357BE
+    037b810f3de74cfaafeae584b5c95bbd:
+      title: CII_§2I
+      base_file: CII_§2I.txt
+      work_id: W7998B4F7
+    b90d4e39b3394e9ca5c1fcabe5d0941e:
+      title: CII_§2J
+      base_file: CII_§2J.txt
+      work_id: W34343830
+    c9a8be787f92413caa9f02ab0132d5b2:
+      title: CI_§1A
+      base_file: CI_§1A.txt
+      work_id: WABB76F6A
+    5e67bca0268f4f32a55bf8d279736a7e:
+      title: CI_§1B
+      base_file: CI_§1B.txt
+      work_id: W10FA91D0
+    a9656be6e4b540ec9e83a41bdbd39708:
+      title: CI_§1C
+      base_file: CI_§1C.txt
+      work_id: W6EEE1EE1
+    d380d885e50240b5baa5d352cc1e3f46:
+      title: CI_§1D
+      base_file: CI_§1D.txt
+      work_id: W34E81123
+    3f5141242eea4ce4bbccdf03138fb620:
+      title: CI_§1E
+      base_file: CI_§1E.txt
+      work_id: WA4AAD449
+    266a7f2d99514ae48b2691d0443ce516:
+      title: CI_§1F
+      base_file: CI_§1F.txt
+      work_id: W44B41B60
+    3c34393bcf3244138288874d1330c0de:
+      title: CI_§1G
+      base_file: CI_§1G.txt
+      work_id: W238BEAB2
+    8b9287c80bbf42a1922522568315a6d0:
+      title: CI_§1H
+      base_file: CI_§1H.txt
+      work_id: W33FCFB30
+    fb55c470d4504f58afc0ac30448373af:
+      title: CI_§1I
+      base_file: CI_§1I.txt
+      work_id: WE499244B
+    56c0a77c9adb4f399915bf3f5df29744:
+      title: CI_§1J
+      base_file: CI_§1J.txt
+      work_id: W1B4F81BB
+    6a42dc0733df4703ad88fb193e9f03e2:
+      title: CI_§1K
+      base_file: CI_§1K.txt
+      work_id: WC79AF1D6
+    f5011eb5a41a4866802f23ed829463a4:
+      title: CI_§1L
+      base_file: CI_§1L.txt
+      work_id: WB29CBFC1
+    298cd01ae67c4a569860b0d6978aafb4:
+      title: CI_§1M
+      base_file: CI_§1M.txt
+      work_id: W7A10A47C
+    babda34f546f4f8fb222e6a87d8b34c9:
+      title: CI_§1N
+      base_file: CI_§1N.txt
+      work_id: W9E89CB98
+    5104af4307844c8f93c1337fda4498f9:
+      title: CI_§1O
+      base_file: CI_§1O.txt
+      work_id: W6C1B66C8
+    96e53c1c04dc40a98505d8599f72199f:
+      title: CI_§1P
+      base_file: CI_§1P.txt
+      work_id: W03ED9D97
+    7c78bf9fea6445969c067a0ee1861f79:
+      title: CI_§1Q
+      base_file: CI_§1Q.txt
+      work_id: W2E28E92F
+    4567fc3b406c451f81f4b60755e5e622:
+      title: CI_§1R
+      base_file: CI_§1R.txt
+      work_id: W8120D65F
+    f6e6cf93d8ac4f358b005a4a8d16742f:
+      title: CI_§1S
+      base_file: CI_§1S.txt
+      work_id: WB46BB33A
+    b6601c62bdec48a693c355367c2e39d4:
+      title: CI_§1T
+      base_file: CI_§1T.txt
+      work_id: W1764F83D
+    da4aa5d946604bd190694804aaf8cd38:
+      title: CI_§1U
+      base_file: CI_§1U.txt
+      work_id: W7E3AA84E
+    15f3cca4cf92443cb610e59d54b5c01c:
+      title: CI_§1V
+      base_file: CI_§1V.txt
+      work_id: W8D33CCD1
+    f9c97fb1839143b4b656100bde534d67:
+      title: CI_§1W
+      base_file: CI_§1W.txt
+      work_id: W64762023
+    24315a3247f64abf9ae0a8defdff9d1d:
+      title: CI_§1X
+      base_file: CI_§1X.txt
+      work_id: W4847F73F
+    7a422f8f04744d139d84ef50078f253f:
+      title: CI_§1Y
+      base_file: CI_§1Y.txt
+      work_id: WDBCB7A1E
+    944c230899d34a028f03efa6600cea18:
+      title: Introduction
+      base_file: Introduction.txt
+      work_id: W3D674477
+    17a06e87941f490997ba6f7c5f6c2f0c:
+      title: Title
+      base_file: Title.txt
+      work_id: W56228AD6
+  chapter_to_tile:
+    CI: §Ch 1
+    CII: §Ch 2
+    CIII: §Ch 3
+created_at: '2022-03-01T21:46:16.833993'
+last_modified_at: '2022-03-01T21:46:16.834002'
